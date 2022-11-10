@@ -6,7 +6,7 @@
 
 *Sou Ian Victor tenho 23 anos, estou em busca da minha primeira vaga como desenvolvedor Junior* 
 
-* 🌱 Atualmente estudando HTML, CSS, Python, Java Script
+* 🌱 Atualmente estudando Lógica de Programação
 * 📫 Contate-me: ianvictor.denv@gmail.com
 * 🚀 Estudante de desenvolvimento de sistemas na Proz (Enferminas)
 
@@ -22,9 +22,7 @@
 
 <div style="display:flex">
  
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ 
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
    
