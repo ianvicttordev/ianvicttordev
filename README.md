@@ -4,7 +4,7 @@
 
 <br/>
 
-*Sou Ian Victor tenho 23 anos, estou em busca da minha primeira vaga como desenvolvedor Junior* 
+*Sou Ian Victor tenho 24 anos, estou em busca da minha primeira vaga como desenvolvedor Junior* 
 
 * 🌱 Atualmente estudando Lógica de Programação
 * 📫 Contate-me: ianvictor.denv@gmail.com
