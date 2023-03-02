@@ -26,7 +26,7 @@
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" />
-   
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" />   
 </div>
 
 
