@@ -23,8 +23,8 @@
 <div style="display:flex">
  
  
-<img width="50px" height="50px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg]" />
-<img width="50px" height="50px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)" />
    
 </div>
 
