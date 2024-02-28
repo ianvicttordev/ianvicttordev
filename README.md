@@ -4,13 +4,13 @@
 
 <br/>
 
-*Sou Ian Victor tenho 24 anos, estou em busca da minha primeira vaga como desenvolvedor Junior* 
+*Sou Ian Victor tenho 25 anos, estou em busca da minha primeira vaga como desenvolvedor Junior* 
 
 * 🌱 Atualmente estudando Lógica de Programação, Python, Banco de Dados
 * 📫 Contate-me: ianvictor.denv@gmail.com
 * 🚀 Estudante de desenvolvimento de sistemas na Grau Técnico
 
-### 📊 Metas para 2023:
+### 📊 Metas para 2024:
 
 * 👨🏼‍💻 Conquistar vaga como desenvolvedor
 * 📂 Expandir meu portfolio
