@@ -1,4 +1,4 @@
-<h1 align="center"> Olá, Sou Ian Victor <br/> Cursando Técnico em Análise e Desenvolvimento de Sistemas </h1>
+<h1 align="center"> Olá, Sou Ian Victor <br/> Cursando Engenharia de Software Puc Minas </h1>
 
 ### 🐼 Sobre Mim: 
 
@@ -8,7 +8,7 @@
 
 * 🌱 Atualmente estudando Lógica de Programação, Python, Banco de Dados
 * 📫 Contate-me: ianvictor.denv@gmail.com
-* 🚀 Estudante de desenvolvimento de sistemas na Grau Técnico
+* 🚀 Estudante de Engenharia de Software - Puc Minas
 
 ### 📊 Metas para 2024:
 
